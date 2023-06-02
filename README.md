@@ -13,7 +13,7 @@ This is a website that is cloned to model after the home page of a YouTube accou
 
 ## **Installation**
 
-This website does not require any isntallation as it is hosted on the internet and can be ran easily over the browser.
+This website does not require any installation as it is hosted on the internet and can be ran easily over the browser.
 
 ## **Features**
 
